@@ -1,0 +1,1 @@
+hi i am pavan devloping argocd project to check how it works liek auto heal and how reconciliation works
