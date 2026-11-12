@@ -1,3 +1,4 @@
+
 apiVersion: v2
 name: nginx-helm
 description: NGINX application deployed using Argo CD and Helm
