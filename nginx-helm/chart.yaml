@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nginx-helm
+description: NGINX application deployed using Argo CD and Helm
+type: application
+version: 0.1.0
+appVersion: "1.27"
